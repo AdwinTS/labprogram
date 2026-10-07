@@ -48,6 +48,7 @@ int main()
                                         if(mark[x][y])
                                         {
                                             mark[i][j]=1;
+                                            change=1;
                                             break;
                                         }
                                     }
